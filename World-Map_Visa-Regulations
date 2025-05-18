@@ -371,7 +371,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Canada"
      class="worldcountry"
      id="CA" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_CA" x="5" y="600">Canada</text>
 
 
   <path
@@ -379,7 +379,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Cocos  (Keeling)  Islands"
      class="worldcountry"
      id="CC" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_CC" x="5" y="600">Cocos  (Keeling)  Islands</text>
 
 
   <path
@@ -387,7 +387,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Democratic Republic of Congo"
      class="worldcountry"
      id="CD" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_CD" x="5" y="600">Democratic Republic of Congo</text>
 
 
   <path
@@ -395,7 +395,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Central African Republic"
      class="worldcountry"
      id="CF" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_CF" x="5" y="600">Central African Republic</text>
 
 
   <path
@@ -403,7 +403,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Republic of Congo"
      class="worldcountry"
      id="CG" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_CG" x="5" y="600">Republic of Congo</text>
 
 
   <path
@@ -411,7 +411,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Switzerland"
      class="worldcountry"
      id="CH" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_CH" x="5" y="600">Switzerland</text>
 
 
   <path
@@ -419,7 +419,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Côte d'Ivoire"
      class="worldcountry"
      id="CI" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_CI" x="5" y="600">Côte d'Ivoire</text>
 
 
   <path
@@ -427,7 +427,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Cook Islands"
      class="worldcountry"
      id="CK" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_CK" x="5" y="600">Cook Islands</text>
 
 
   <path
@@ -435,7 +435,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Chile"
      class="worldcountry"
      id="CL" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_CL" x="5" y="600">Chile</text>
 
 
   <path
@@ -443,7 +443,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Cameroon"
      class="worldcountry"
      id="CM" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_CM" x="5" y="600">Cameroon</text>
 
 
   <path
@@ -451,7 +451,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="China"
      class="worldcountry"
      id="CN" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_CN" x="5" y="600">China</text>
 
 
   <path
@@ -459,7 +459,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Colombia"
      class="worldcountry"
      id="CO" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_CO" x="5" y="600">Colombia</text>
 
 
   <path
@@ -467,7 +467,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Costa Rica"
      class="worldcountry"
      id="CR" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_CR" x="5" y="600">Costa Rica</text>
 
 
   <path
@@ -475,7 +475,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Cuba"
      class="worldcountry"
      id="CU" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_CU" x="5" y="600">Cuba</text>
 
 
   <path
@@ -483,7 +483,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Cape Verde"
      class="worldcountry"
      id="CV" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_CV" x="5" y="600">Cape Verde</text>
 
 
   <path
@@ -491,7 +491,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Curaçao"
      class="worldcountry"
      id="CW" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_CW" x="5" y="600">Curaçao</text>
 
 
   <path
@@ -499,7 +499,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Christmas Island"
      class="worldcountry"
      id="CX" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_CX" x="5" y="600">Christmas Island</text>
 
 
   <path
@@ -507,7 +507,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Cyprus"
      class="worldcountry"
      id="CY" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_CY" x="5" y="600">Cyprus</text>
 
 
   <path
@@ -515,7 +515,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Czech Republic"
      class="worldcountry"
      id="CZ" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_CZ" x="5" y="600">Czech Republic</text>
 
 
   <path
@@ -523,7 +523,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Germany"
      class="worldcountry"
      id="DE" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_DE" x="5" y="600">Germany</text>
 
 
   <path
@@ -531,7 +531,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Djibouti"
      class="worldcountry"
      id="DJ" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_DJ" x="5" y="600">Djibouti</text>
 
 
   <path
@@ -539,7 +539,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Denmark"
      class="worldcountry"
      id="DK" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_DK" x="5" y="600">Denmark</text>
 
 
   <path
@@ -547,7 +547,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Dominica"
      class="worldcountry"
      id="DM" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_DM" x="5" y="600">Dominica</text>
 
 
   <path
@@ -555,7 +555,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Dominican Republic"
      class="worldcountry"
      id="DO" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_DO" x="5" y="600">Dominican Republic</text>
 
 
   <path
@@ -563,7 +563,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Algeria"
      class="worldcountry"
      id="DZ" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_DZ" x="5" y="600">Algeria</text>
 
 
   <path
@@ -571,7 +571,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Ecuador"
      class="worldcountry"
      id="EC" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_EC" x="5" y="600">Ecuador</text>
 
 
   <path
@@ -579,7 +579,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Egypt"
      class="worldcountry"
      id="EG" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_EG" x="5" y="600">Egypt</text>
 
 
   <path
@@ -587,7 +587,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Estonia"
      class="worldcountry"
      id="EE" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_EE" x="5" y="600">Estonia</text>
 
 
   <path
@@ -595,7 +595,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Western Sahara"
      class="worldcountry"
      id="EH" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_EH" x="5" y="600">Western Sahara</text>
 
 
   <path
@@ -603,7 +603,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Eritrea"
      class="worldcountry"
      id="ER" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_ER" x="5" y="600">Eritrea</text>
 
 
   <path
@@ -611,7 +611,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Spain"
      class="worldcountry"
      id="ES" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_ES" x="5" y="600">Spain</text>
 
 
   <path
@@ -619,7 +619,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Ethiopia"
      class="worldcountry"
      id="ET" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_ET" x="5" y="600">Ethiopia</text>
 
 
   <path
@@ -627,7 +627,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Finland"
      class="worldcountry"
      id="FI" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_FI" x="5" y="600">Finland</text>
 
 
   <path
@@ -635,7 +635,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Fiji"
      class="worldcountry"
      id="FJ" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_FJ" x="5" y="600">Fiji</text>
 
 
   <path
@@ -643,7 +643,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Falkland Islands"
      class="worldcountry"
      id="FK" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_FK" x="5" y="600">Falkland Islands</text>
 
 
   <path
@@ -651,7 +651,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Federated States of Micronesia"
      class="worldcountry"
      id="FM" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_FM" x="5" y="600">Federated States of Micronesia</text>
 
 
   <path
@@ -659,7 +659,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Faroe Islands"
      class="worldcountry"
      id="FO" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_FO" x="5" y="600">Faroe Islands</text>
 
 
   <path
@@ -667,7 +667,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="France"
      class="worldcountry"
      id="FR" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_FR" x="5" y="600">France</text>
 
 
   <path
@@ -675,7 +675,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Gabon"
      class="worldcountry"
      id="GA" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_GA" x="5" y="600">Gabon</text>
 
 
   <path
@@ -683,7 +683,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="United Kingdom"
      class="worldcountry"
      id="GB" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_GB" x="5" y="600">United Kingdom</text>
 
 
   <path
@@ -691,7 +691,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Georgia"
      class="worldcountry"
      id="GE" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_GE" x="5" y="600">Georgia</text>
 
 
   <path
@@ -699,7 +699,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Grenada"
      class="worldcountry"
      id="GD" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_GD" x="5" y="600">Grenada</text>
 
 
   <path
@@ -707,7 +707,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="French Guiana"
      class="worldcountry"
      id="GF" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_GF" x="5" y="600">French Guiana</text>
 
 
   <path
@@ -715,7 +715,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Guernsey"
      class="worldcountry"
      id="GG" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_GG" x="5" y="600">Guernsey</text>
 
 
   <path
@@ -723,7 +723,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Ghana"
      class="worldcountry"
      id="GH" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_GH" x="5" y="600">Ghana</text>
 
 
   <path
@@ -731,7 +731,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Gibraltar"
      class="worldcountry"
      id="GI" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_GI" x="5" y="600">Gibraltar</text>
 
 
   <path
@@ -739,7 +739,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Greenland"
      class="worldcountry"
      id="GL" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_GL" x="5" y="600">Greenland</text>
 
 
   <path
@@ -747,7 +747,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Gambia"
      class="worldcountry"
      id="GM" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_GM" x="5" y="600">Gambia</text>
 
 
   <path
@@ -755,7 +755,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Guinea"
      class="worldcountry"
      id="GN" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_GN" x="5" y="600">Guinea</text>
 
 
   <path
@@ -763,7 +763,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Glorioso Islands"
      class="worldcountry"
      id="GO" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_GO" x="5" y="600">Glorioso Islands</text>
 
 
   <path
@@ -771,7 +771,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Guadeloupe"
      class="worldcountry"
      id="GP" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_GP" x="5" y="600">Guadeloupe</text>
 
 
   <path
@@ -779,7 +779,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Equatorial Guinea"
      class="worldcountry"
      id="GQ" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_GQ" x="5" y="600">Equatorial Guinea</text>
 
 
   <path
@@ -787,7 +787,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Greece"
      class="worldcountry"
      id="GR" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_GR" x="5" y="600">Greece</text>
 
 
   <path
@@ -795,7 +795,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="South Georgia and South Sandwich Islands"
      class="worldcountry"
      id="GS" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_GS" x="5" y="600">South Georgia and South Sandwich Islands</text>
 
 
   <path
@@ -803,7 +803,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Guatemala"
      class="worldcountry"
      id="GT" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_GT" x="5" y="600">Guatemala</text>
 
 
   <path
@@ -811,7 +811,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Guam"
      class="worldcountry"
      id="GU" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_GU" x="5" y="600">Guam</text>
 
 
   <path
@@ -819,7 +819,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Guinea-Bissau"
      class="worldcountry"
      id="GW" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_GW" x="5" y="600">Guinea-Bissau</text>
 
 
   <path
@@ -827,7 +827,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Guyana"
      class="worldcountry"
      id="GY" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_GY" x="5" y="600">Guyana</text>
 
 
   <path
@@ -835,7 +835,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Hong Kong"
      class="worldcountry"
      id="HK" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_HK" x="5" y="600">Hong Kong</text>
 
 
   <path
@@ -843,7 +843,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Heard Island and McDonald Islands"
      class="worldcountry"
      id="HM" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_HM" x="5" y="600">Heard Island and McDonald Islands</text>
 
 
   <path
@@ -851,7 +851,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Honduras"
      class="worldcountry"
      id="HN" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_HN" x="5" y="600">Honduras</text>
 
 
   <path
@@ -859,7 +859,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Croatia"
      class="worldcountry"
      id="HR" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_HR" x="5" y="600">Croatia</text>
 
 
   <path
@@ -867,7 +867,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Haiti"
      class="worldcountry"
      id="HT" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_HT" x="5" y="600">Haiti</text>
 
 
   <path
@@ -875,7 +875,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Hungary"
      class="worldcountry"
      id="HU" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_HU" x="5" y="600">Hungary</text>
 
 
   <path
@@ -883,7 +883,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Indonesia"
      class="worldcountry"
      id="ID" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_ID" x="5" y="600">Indonesia</text>
 
 
   <path
@@ -891,7 +891,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Ireland"
      class="worldcountry"
      id="IE" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_IE" x="5" y="600">Ireland</text>
 
 
   <path
@@ -899,7 +899,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Israel"
      class="worldcountry"
      id="IL" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_IL" x="5" y="600">Israel</text>
 
 
   <path
@@ -907,7 +907,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Isle of Man"
      class="worldcountry"
      id="IM" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_IM" x="5" y="600">Isle of Man</text>
 
 
   <path
@@ -915,7 +915,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="India"
      class="worldcountry"
      id="IN" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_IN" x="5" y="600">India</text>
 
 
   <path
@@ -923,7 +923,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="British Indian Ocean Territory"
      class="worldcountry"
      id="IO" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_IO" x="5" y="600">British Indian Ocean Territory</text>
 
 
   <path
@@ -931,7 +931,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Iraq"
      class="worldcountry"
      id="IQ" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_IQ" x="5" y="600">Iraq</text>
 
 
   <path
@@ -939,7 +939,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Iran"
      class="worldcountry"
      id="IR" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_IR" x="5" y="600">Iran</text>
 
 
   <path
@@ -947,7 +947,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Iceland"
      class="worldcountry"
      id="IS" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_IS" x="5" y="600">Iceland</text>
 
 
   <path
@@ -955,7 +955,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Italy"
      class="worldcountry"
      id="IT" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_IT" x="5" y="600">Italy</text>
 
 
   <path
@@ -963,7 +963,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Jersey"
      class="worldcountry"
      id="JE" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_JE" x="5" y="600">Jersey</text>
 
 
   <path
@@ -971,7 +971,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Jamaica"
      class="worldcountry"
      id="JM" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_JM" x="5" y="600">Jamaica</text>
 
 
   <path
@@ -979,7 +979,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Jordan"
      class="worldcountry"
      id="JO" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_JO" x="5" y="600">Jordan</text>
 
 
   <path
@@ -987,7 +987,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Japan"
      class="worldcountry"
      id="JP" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_JP" x="5" y="600">Japan</text>
 
 
   <path
@@ -995,7 +995,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Juan De Nova Island"
      class="worldcountry"
      id="JU" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_JU" x="5" y="600">Juan De Nova Island</text>
 
 
   <path
@@ -1003,7 +1003,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Kenya"
      class="worldcountry"
      id="KE" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_KE" x="5" y="600">Kenya</text>
 
 
   <path
@@ -1011,7 +1011,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Kyrgyzstan"
      class="worldcountry"
      id="KG" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_KG" x="5" y="600">Kyrgyzstan</text>
 
 
   <path
@@ -1019,7 +1019,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Cambodia"
      class="worldcountry"
      id="KH" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_KH" x="5" y="600">Cambodia</text>
 
 
   <path
@@ -1027,7 +1027,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Kiribati"
      class="worldcountry"
      id="KI" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_KI" x="5" y="600">Kiribati</text>
 
 
   <path
@@ -1035,7 +1035,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Comoros"
      class="worldcountry"
      id="KM" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_KM" x="5" y="600">Comoros</text>
 
 
   <path
@@ -1043,7 +1043,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Saint Kitts and Nevis"
      class="worldcountry"
      id="KN" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_KN" x="5" y="600">Saint Kitts and Nevis</text>
 
 
   <path
@@ -1051,7 +1051,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="North Korea"
      class="worldcountry"
      id="KP" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_KP" x="5" y="600">North Korea</text>
 
 
   <path
@@ -1059,7 +1059,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="South Korea"
      class="worldcountry"
      id="KR" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_KR" x="5" y="600">South Korea</text>
 
 
   <path
@@ -1067,7 +1067,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Kosovo"
      class="worldcountry"
      id="XK" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_XK" x="5" y="600">Kosovo</text>
 
 
   <path
@@ -1075,7 +1075,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Kuwait"
      class="worldcountry"
      id="KW" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_KW" x="5" y="600">Kuwait</text>
 
 
   <path
@@ -1083,7 +1083,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Cayman Islands"
      class="worldcountry"
      id="KY" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_KY" x="5" y="600">Cayman Islands</text>
 
 
   <path
@@ -1091,7 +1091,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Kazakhstan"
      class="worldcountry"
      id="KZ" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_KZ" x="5" y="600">Kazakhstan</text>
 
 
   <path
@@ -1099,7 +1099,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Lao People's Democratic Republic"
      class="worldcountry"
      id="LA" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_LA" x="5" y="600">Lao People's Democratic Republic</text>
 
 
   <path
@@ -1107,7 +1107,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Lebanon"
      class="worldcountry"
      id="LB" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_LB" x="5" y="600">Lebanon</text>
 
 
   <path
@@ -1115,7 +1115,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Saint Lucia"
      class="worldcountry"
      id="LC" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_LC" x="5" y="600">Saint Lucia</text>
 
 
   <path
@@ -1123,7 +1123,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Liechtenstein"
      class="worldcountry"
      id="LI" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_LI" x="5" y="600">Liechtenstein</text>
 
 
   <path
@@ -1131,7 +1131,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Sri Lanka"
      class="worldcountry"
      id="LK" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_LK" x="5" y="600">Sri Lanka</text>
 
 
   <path
@@ -1139,7 +1139,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Liberia"
      class="worldcountry"
      id="LR" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_LR" x="5" y="600">Liberia</text>
 
 
   <path
@@ -1147,7 +1147,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Lesotho"
      class="worldcountry"
      id="LS" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_LS" x="5" y="600">Lesotho</text>
 
 
   <path
@@ -1155,7 +1155,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Lithuania"
      class="worldcountry"
      id="LT" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_LT" x="5" y="600">Lithuania</text>
 
 
   <path
@@ -1163,7 +1163,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Luxembourg"
      class="worldcountry"
      id="LU" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_LU" x="5" y="600">Luxembourg</text>
 
 
   <path
@@ -1171,7 +1171,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Latvia"
      class="worldcountry"
      id="LV" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_LV" x="5" y="600">Latvia</text>
 
 
   <path
@@ -1179,7 +1179,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Libya"
      class="worldcountry"
      id="LY" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_LY" x="5" y="600">Libya</text>
 
 
   <path
@@ -1187,7 +1187,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Morocco"
      class="worldcountry"
      id="MA" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_MA" x="5" y="600">Morocco</text>
 
 
   <path
@@ -1195,7 +1195,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Monaco"
      class="worldcountry"
      id="MC" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_MC" x="5" y="600">Monaco</text>
 
 
   <path
@@ -1203,7 +1203,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Moldova"
      class="worldcountry"
      id="MD" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_MD" x="5" y="600">Moldova</text>
 
 
   <path
@@ -1211,7 +1211,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Madagascar"
      class="worldcountry"
      id="MG" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_MG" x="5" y="600">Madagascar</text>
 
 
   <path
@@ -1219,7 +1219,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Montenegro"
      class="worldcountry"
      id="ME" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_ME" x="5" y="600">Montenegro</text>
 
 
   <path
@@ -1227,7 +1227,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Saint Martin"
      class="worldcountry"
      id="MF" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_MF" x="5" y="600">Saint Martin</text>
 
 
   <path
@@ -1235,7 +1235,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Marshall Islands"
      class="worldcountry"
      id="MH" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_MH" x="5" y="600">Marshall Islands</text>
 
 
   <path
@@ -1243,7 +1243,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Macedonia"
      class="worldcountry"
      id="MK" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_MK" x="5" y="600">Macedonia</text>
 
 
   <path
@@ -1251,7 +1251,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Mali"
      class="worldcountry"
      id="ML" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_ML" x="5" y="600">Mali</text>
 
 
   <path
@@ -1259,7 +1259,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Macau"
      class="worldcountry"
      id="MO" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_MO" x="5" y="600">Macau</text>
 
 
   <path
@@ -1267,7 +1267,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Myanmar"
      class="worldcountry"
      id="MM" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_MM" x="5" y="600">Myanmar</text>
 
 
   <path
@@ -1275,7 +1275,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Mongolia"
      class="worldcountry"
      id="MN" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_MN" x="5" y="600">Mongolia</text>
 
 
   <path
@@ -1283,7 +1283,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Northern Mariana Islands"
      class="worldcountry"
      id="MP" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_MP" x="5" y="600">Northern Mariana Islands</text>
 
 
   <path
@@ -1291,7 +1291,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Martinique"
      class="worldcountry"
      id="MQ" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_MQ" x="5" y="600">Martinique</text>
 
 
   <path
@@ -1299,7 +1299,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Mauritania"
      class="worldcountry"
      id="MR" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_MR" x="5" y="600">Mauritania</text>
 
 
   <path
@@ -1307,7 +1307,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Montserrat"
      class="worldcountry"
      id="MS" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_MS" x="5" y="600">Montserrat</text>
 
 
   <path
@@ -1315,7 +1315,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Malta"
      class="worldcountry"
      id="MT" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_MT" x="5" y="600">Malta</text>
 
 
   <path
@@ -1323,7 +1323,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Mauritius"
      class="worldcountry"
      id="MU" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_MU" x="5" y="600">Mauritius</text>
 
 
   <path
@@ -1331,7 +1331,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Maldives"
      class="worldcountry"
      id="MV" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_MV" x="5" y="600">Maldives</text>
 
 
   <path
@@ -1339,7 +1339,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Malawi"
      class="worldcountry"
      id="MW" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_MW" x="5" y="600">Malawi</text>
 
 
   <path
@@ -1347,7 +1347,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Mexico"
      class="worldcountry"
      id="MX" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_MX" x="5" y="600">Mexico</text>
 
 
   <path
@@ -1355,7 +1355,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Malaysia"
      class="worldcountry"
      id="MY" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_MY" x="5" y="600">Malaysia</text>
 
 
   <path
@@ -1363,14 +1363,14 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Mozambique"
      class="worldcountry"
      id="MZ" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_MZ" x="5" y="600">Mozambique</text>
 
 
   <path
      d="m 540.51275,512.9044 0.601,-0.12 0.574,-0.115 0.667,-0.115 0.534,-0.092 0.134,-0.024 1.285,0.107 0.56,0.075 0.195,0.074 0.253,0.192 0.468,0.467 -0.12,-0.018 -0.862,0.099 -0.328,0.127 -0.734,0.551 -0.156,-0.071 -0.176,-0.114 -0.149,-0.033 -0.323,0.132 -0.322,0.159 -0.355,0.225 -0.293,0.22 -0.096,0.119 -0.459,0.455 -0.15,0.073 -0.133,0.032 -0.054,-0.021 -0.057,-0.196 -0.282,-0.456 -0.452,-0.598 -0.132,-0.058 -0.091,-0.023 -0.335,0.029 -0.974,0.169 -0.822,0.142 -1.259,0.244 -1.352,0.196 -0.833,0.121 -0.726,0.036 0.001,0.592 10e-4,1.203 0.002,1.204 0.002,1.208 0.002,1.21 10e-4,1.214 0.002,1.217 0.002,1.221 0.002,1.224 0,0.535 -0.024,0.115 -0.416,0 -0.941,0 -0.791,0 -0.64,0 10e-4,0.73 10e-4,0.865 0,0.867 10e-4,0.869 10e-4,0.87 0.001,0.873 10e-4,0.874 10e-4,0.877 10e-4,0.878 0,0.664 0,0.076 0,1.293 0,1.375 0,1.38 0,1.385 0,1.391 0,1.396 0,1.401 0,1.408 0,0.447 -0.288,-0.006 -0.579,0.173 -0.369,0.225 -0.16,0.277 -0.212,0.168 -0.266,0.06 -0.117,0.141 0.032,0.224 -0.103,0.171 -0.235,0.119 -0.381,-0.035 -0.526,-0.188 -0.669,-0.044 -0.812,0.099 -0.585,-0.046 -0.355,-0.193 -0.377,-0.109 -0.399,-0.028 -0.232,-0.08 -0.474,-0.143 -0.09,-0.246 -0.056,-0.185 -0.135,-0.195 -0.015,-0.158 0.106,-0.12 0.015,-0.192 -0.075,-0.266 -0.131,-0.129 -0.186,0.007 -0.116,-0.102 -0.046,-0.21 -0.109,-0.159 -0.261,-0.162 -0.345,0.122 -0.163,0.185 -0.096,0.288 -0.087,0.145 -0.044,0.241 -0.02,0.171 -0.088,0.183 -0.092,0.074 -0.095,-0.034 -0.177,0.074 -0.391,0.269 -0.111,0.142 -0.315,-0.257 -0.92,-0.967 -0.327,-0.251 -0.482,-0.591 -1.06,-1.826 -0.151,-0.351 -0.202,-0.878 -0.232,-0.649 -0.026,-0.374 0.111,-0.212 -0.068,-0.287 -0.119,-0.257 -0.361,-0.336 -0.103,-1.118 -0.242,-0.721 0.053,-0.595 -0.116,-0.541 -0.011,-0.346 0.052,-0.658 -0.194,-0.755 -0.393,-0.736 -0.355,-1.06 -0.051,-0.464 0.038,-1.243 -0.069,-0.507 0.004,-0.594 -0.14,-0.615 -0.058,-0.335 0.099,-0.265 0.058,0.084 0.102,0.04 0.069,-0.352 0.016,-0.311 -0.177,-0.766 -0.395,-0.782 -0.979,-1.27 -0.239,-0.484 -0.136,-0.4 -1.092,-1.666 -0.466,-1.171 -0.326,-1.01 -0.354,-0.465 -1.639,-3.259 -0.363,-0.518 -0.654,-0.619 -0.153,-0.206 -0.252,-0.589 -0.492,-0.788 -0.12,-0.735 -0.033,-0.832 0.06,-0.636 0.448,-0.066 0.313,-0.17 0.281,-0.011 0.278,0.133 0.295,0.01 0.115,-0.022 0.53,0.019 0.304,-0.152 0.361,-0.152 0.208,-0.134 0.292,-0.137 0.387,-0.139 0.22,0.011 0.27,0.052 0.359,0.054 0.203,0.093 0.24,0.296 0.373,0.269 0.274,0.161 0.315,0.211 0.094,0.082 0.139,0.045 0.085,0.014 0.585,-0.033 0.529,-0.029 0.571,10e-4 1.073,0.001 1.074,0.002 1.074,10e-4 1.074,0.002 1.074,0.002 1.073,0.002 1.074,0.001 1.074,0.002 0.439,10e-4 0.767,0.009 0.808,0.01 0.089,0.017 0.09,0.056 0.074,0.054 0.285,0.372 0.364,0.39 0.304,0.184 0.362,0.11 0.34,0.041 0.318,-0.027 0.526,0.05 0.736,0.126 0.765,0.037 0.793,-0.051 0.557,0.069 0.322,0.191 0.33,0.13 0.338,0.068 0.456,-0.04 0.576,-0.148 0.49,0.021 0.227,0.107 0.135,0.003 0.846,-0.155 0.68,-0.124 1.021,-0.199 0.841,-0.164 1.246,-0.242 z"
      title="Namibia"
      id="NA" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_NA" x="5" y="600">Namibia</text>
 
 
   <path
@@ -1378,7 +1378,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="New Caledonia"
      class="worldcountry"
      id="NC" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_NC" x="5" y="600">New Caledonia</text>
 
 
   <path
@@ -1386,7 +1386,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Niger"
      class="worldcountry"
      id="NE" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_NE" x="5" y="600">Niger</text>
 
 
   <path
@@ -1394,7 +1394,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Norfolk Island"
      class="worldcountry"
      id="NF" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_NF" x="5" y="600">Norfolk Island</text>
 
 
   <path
@@ -1402,7 +1402,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Nigeria"
      class="worldcountry"
      id="NG" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_NG" x="5" y="600">Nigeria</text>
 
 
   <path
@@ -1410,7 +1410,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Nicaragua"
      class="worldcountry"
      id="NI" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_NI" x="5" y="600">Nicaragua</text>
 
 
   <path
@@ -1418,7 +1418,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Netherlands"
      class="worldcountry"
      id="NL" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_NL" x="5" y="600">Netherlands</text>
 
 
   <path
@@ -1426,7 +1426,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Norway"
      class="worldcountry"
      id="NO" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_NO" x="5" y="600">Norway</text>
 
 
   <path
@@ -1434,7 +1434,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Nepal"
      class="worldcountry"
      id="NP" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_NP" x="5" y="600">Nepal</text>
 
 
   <path
@@ -1442,7 +1442,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Nauru"
      class="worldcountry"
      id="NR" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_NR" x="5" y="600">Nauru</text>
 
 
   <path
@@ -1450,7 +1450,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Niue"
      class="worldcountry"
      id="NU" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_NU" x="5" y="600">Niue</text>
 
 
   <path
@@ -1458,7 +1458,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="New Zealand"
      class="worldcountry"
      id="NZ" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_NZ" x="5" y="600">New Zealand</text>
 
 
   <path
@@ -1466,7 +1466,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Oman"
      class="worldcountry"
      id="OM" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_OM" x="5" y="600">Oman</text>
 
 
   <path
@@ -1474,7 +1474,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Panama"
      class="worldcountry"
      id="PA" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_PA" x="5" y="600">Panama</text>
 
 
   <path
@@ -1482,7 +1482,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Peru"
      class="worldcountry"
      id="PE" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_PE" x="5" y="600">Peru</text>
 
 
   <path
@@ -1490,7 +1490,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="French Polynesia"
      class="worldcountry"
      id="PF" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_PF" x="5" y="600">French Polynesia</text>
 
 
   <path
@@ -1498,7 +1498,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Papua New Guinea"
      class="worldcountry"
      id="PG" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_PG" x="5" y="600">Papua New Guinea</text>
 
 
   <path
@@ -1506,7 +1506,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Philippines"
      class="worldcountry"
      id="PH" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_PH" x="5" y="600">Philippines</text>
 
 
   <path
@@ -1514,7 +1514,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Pakistan"
      class="worldcountry"
      id="PK" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_PK" x="5" y="600">Pakistan</text>
 
 
   <path
@@ -1522,7 +1522,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Poland"
      class="worldcountry"
      id="PL" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_PL" x="5" y="600">Poland</text>
 
 
   <path
@@ -1530,7 +1530,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Saint Pierre and Miquelon"
      class="worldcountry"
      id="PM" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_PM" x="5" y="600">Saint Pierre and Miquelon</text>
 
 
   <path
@@ -1538,7 +1538,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Pitcairn Islands"
      class="worldcountry"
      id="PN" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_PN" x="5" y="600">Pitcairn Islands</text>
 
 
   <path
@@ -1546,7 +1546,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Puerto Rico"
      class="worldcountry"
      id="PR" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_PR" x="5" y="600">Puerto Rico</text>
 
 
   <path
@@ -1554,7 +1554,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Palestinian Territories"
      class="worldcountry"
      id="PS" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_PS" x="5" y="600">Palestinian Territories</text>
 
 
   <path
@@ -1562,7 +1562,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Portugal"
      class="worldcountry"
      id="PT" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_PT" x="5" y="600">Portugal</text>
 
 
   <path
@@ -1570,7 +1570,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Palau"
      class="worldcountry"
      id="PW" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_PW" x="5" y="600">Palau</text>
 
 
   <path
@@ -1578,7 +1578,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Paraguay"
      class="worldcountry"
      id="PY" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_PY" x="5" y="600">Paraguay</text>
 
 
   <path
@@ -1586,7 +1586,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Qatar"
      class="worldcountry"
      id="QA" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_QA" x="5" y="600">Qatar</text>
 
 
   <path
@@ -1594,7 +1594,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Reunion"
      class="worldcountry"
      id="RE" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_RE" x="5" y="600">Reunion</text>
 
 
   <path
@@ -1602,7 +1602,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Romania"
      class="worldcountry"
      id="RO" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_RO" x="5" y="600">Romania</text>
 
 
   <path
@@ -1610,7 +1610,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Serbia"
      class="worldcountry"
      id="RS" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_RS" x="5" y="600">Serbia</text>
 
 
   <path
@@ -1618,7 +1618,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Russia"
      class="worldcountry"
      id="RU" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_RU" x="5" y="600">Russia</text>
 
 
   <path
@@ -1626,7 +1626,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Rwanda"
      class="worldcountry"
      id="RW" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_RW" x="5" y="600">Rwanda</text>
 
 
   <path
@@ -1634,7 +1634,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Saudi Arabia"
      class="worldcountry"
      id="SA" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_SA" x="5" y="600">Saudi Arabia</text>
 
 
   <path
@@ -1642,7 +1642,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Solomon Islands"
      class="worldcountry"
      id="SB" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_SB" x="5" y="600">Solomon Islands</text>
 
 
   <path
@@ -1650,7 +1650,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Seychelles"
      class="worldcountry"
      id="SC" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_SC" x="5" y="600">Seychelles</text>
 
 
   <path
@@ -1658,7 +1658,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Sudan"
      class="worldcountry"
      id="SD" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_SD" x="5" y="600">Sudan</text>
 
 
   <path
@@ -1666,7 +1666,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Sweden"
      class="worldcountry"
      id="SE" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_SE" x="5" y="600">Sweden</text>
 
 
   <path
@@ -1674,7 +1674,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Singapore"
      class="worldcountry"
      id="SG" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_SG" x="5" y="600">Singapore</text>
 
 
   <path
@@ -1682,7 +1682,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Saint Helena"
      class="worldcountry"
      id="SH" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_SH" x="5" y="600">Saint Helena</text>
 
 
   <path
@@ -1690,7 +1690,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Slovenia"
      class="worldcountry"
      id="SI" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_SI" x="5" y="600">Slovenia</text>
 
 
   <path
@@ -1698,7 +1698,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Svalbard and Jan Mayen"
      class="worldcountry"
      id="SJ" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_SJ" x="5" y="600">Svalbard and Jan Mayen</text>
 
 
   <path
@@ -1706,7 +1706,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Slovakia"
      class="worldcountry"
      id="SK" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_SK" x="5" y="600">Slovakia</text>
 
 
   <path
@@ -1714,7 +1714,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Sierra Leone"
      class="worldcountry"
      id="SL" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_SL" x="5" y="600">Sierra Leone</text>
 
 
   <path
@@ -1722,7 +1722,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="San Marino"
      class="worldcountry"
      id="SM" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_SM" x="5" y="600">San Marino</text>
 
 
   <path
@@ -1730,7 +1730,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Senegal"
      class="worldcountry"
      id="SN" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_SN" x="5" y="600">Senegal</text>
 
 
   <path
@@ -1738,7 +1738,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Somalia"
      class="worldcountry"
      id="SO" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_SO" x="5" y="600">Somalia</text>
 
 
   <path
@@ -1746,7 +1746,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Suriname"
      class="worldcountry"
      id="SR" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_SR" x="5" y="600">Suriname</text>
 
 
   <path
@@ -1754,7 +1754,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="South Sudan"
      class="worldcountry"
      id="SS" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_SS" x="5" y="600">South Sudan</text>
 
 
   <path
@@ -1762,7 +1762,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Sao Tome and Principe"
      class="worldcountry"
      id="ST" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_ST" x="5" y="600">Sao Tome and Principe</text>
 
 
   <path
@@ -1770,7 +1770,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="El Salvador"
      class="worldcountry"
      id="SV" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_SV" x="5" y="600">El Salvador</text>
 
 
   <path
@@ -1778,7 +1778,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Saint Martin"
      class="worldcountry"
      id="SX" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_SX" x="5" y="600">Saint Martin</text>
 
 
   <path
@@ -1786,7 +1786,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Syria"
      class="worldcountry"
      id="SY" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_SY" x="5" y="600">Syria</text>
 
 
   <path
@@ -1794,7 +1794,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Swaziland"
      class="worldcountry"
      id="SZ" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_SZ" x="5" y="600">Swaziland</text>
 
 
   <path
@@ -1802,7 +1802,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Turks and Caicos Islands"
      class="worldcountry"
      id="TC" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_TC" x="5" y="600">Turks and Caicos Islands</text>
 
 
   <path
@@ -1810,7 +1810,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Chad"
      class="worldcountry"
      id="TD" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_TD" x="5" y="600">Chad</text>
 
 
   <path
@@ -1818,7 +1818,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="French Southern and Antarctic Lands"
      class="worldcountry"
      id="TF" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_TF" x="5" y="600">French Southern and Antarctic Lands</text>
 
 
   <path
@@ -1826,7 +1826,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Togo"
      class="worldcountry"
      id="TG" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_TG" x="5" y="600">Togo</text>
 
 
   <path
@@ -1834,7 +1834,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Thailand"
      class="worldcountry"
      id="TH" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_TH" x="5" y="600">Thailand</text>
 
 
   <path
@@ -1842,7 +1842,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Tajikistan"
      class="worldcountry"
      id="TJ" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_TJ" x="5" y="600">Tajikistan</text>
 
 
   <path
@@ -1850,7 +1850,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Tokelau"
      class="worldcountry"
      id="TK" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_TK" x="5" y="600">Tokelau</text>
 
 
   <path
@@ -1858,7 +1858,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Timor-Leste"
      class="worldcountry"
      id="TL" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_TL" x="5" y="600">Timor-Leste</text>
 
 
   <path
@@ -1866,7 +1866,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Turkmenistan"
      class="worldcountry"
      id="TM" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_TM" x="5" y="600">Turkmenistan</text>
 
 
   <path
@@ -1874,7 +1874,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Tunisia"
      class="worldcountry"
      id="TN" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_TN" x="5" y="600">Tunisia</text>
 
 
   <path
@@ -1882,7 +1882,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Tonga"
      class="worldcountry"
      id="TO" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_TO" x="5" y="600">Tonga</text>
 
 
   <path
@@ -1890,7 +1890,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Turkey"
      class="worldcountry"
      id="TR" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_TR" x="5" y="600">Turkey</text>
 
 
   <path
@@ -1898,7 +1898,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Trinidad and Tobago"
      class="worldcountry"
      id="TT" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_TT" x="5" y="600">Trinidad and Tobago</text>
 
 
   <path
@@ -1906,7 +1906,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Tuvalu"
      class="worldcountry"
      id="TV" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_TV" x="5" y="600">Tuvalu</text>
 
 
   <path
@@ -1914,7 +1914,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Taiwan"
      class="worldcountry"
      id="TW" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_TW" x="5" y="600">Taiwan</text>
 
 
   <path
@@ -1922,7 +1922,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Tanzania"
      class="worldcountry"
      id="TZ" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_TZ" x="5" y="600">Tanzania</text>
 
 
   <path
@@ -1930,7 +1930,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Ukraine"
      class="worldcountry"
      id="UA" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_UA" x="5" y="600">Ukraine</text>
 
 
   <path
@@ -1938,7 +1938,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Uganda"
      class="worldcountry"
      id="UG" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_UG" x="5" y="600">Uganda</text>
 
 
   <path
@@ -1946,7 +1946,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Jarvis Island"
      class="worldcountry"
      id="UM-DQ" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_UM-DQ" x="5" y="600">Jarvis Island</text>
 
 
   <path
@@ -1954,7 +1954,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Baker Island"
      class="worldcountry"
      id="UM-FQ" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_UM-FQ" x="5" y="600">Baker Island</text>
 
 
   <path
@@ -1962,7 +1962,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Howland Island"
      class="worldcountry"
      id="UM-HQ" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_UM-HQ" x="5" y="600">Howland Island</text>
 
 
   <path
@@ -1970,7 +1970,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Johnston Atoll"
      class="worldcountry"
      id="UM-JQ" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_UM-JQ" x="5" y="600">Johnston Atoll</text>
 
 
   <path
@@ -1978,7 +1978,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Midway Islands"
      class="worldcountry"
      id="UM-MQ" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_UM-MQ" x="5" y="600">Midway Islands</text>
 
 
   <path
@@ -1986,7 +1986,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Wake Island"
      class="worldcountry"
      id="UM-WQ" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_UM-WQ" x="5" y="600">Wake Island</text>
 
 
   <path
@@ -1994,7 +1994,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="United States"
      class="worldcountry"
      id="US" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_US" x="5" y="600">United States</text>
 
 
   <path
@@ -2002,7 +2002,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Uruguay"
      class="worldcountry"
      id="UY" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_UY" x="5" y="600">Uruguay</text>
 
 
   <path
@@ -2010,7 +2010,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Uzbekistan"
      class="worldcountry"
      id="UZ" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_UZ" x="5" y="600">Uzbekistan</text>
 
 
   <path
@@ -2018,7 +2018,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Vatican City"
      class="worldcountry"
      id="VA" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_VA" x="5" y="600">Vatican City</text>
 
 
   <path
@@ -2026,7 +2026,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Saint Vincent and the Grenadines"
      class="worldcountry"
      id="VC" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_VC" x="5" y="600">Saint Vincent and the Grenadines</text>
 
 
   <path
@@ -2034,7 +2034,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Venezuela"
      class="worldcountry"
      id="VE" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_VE" x="5" y="600">Venezuela</text>
 
 
   <path
@@ -2042,7 +2042,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="British Virgin Islands"
      class="worldcountry"
      id="VG" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_VG" x="5" y="600">British Virgin Islands</text>
 
 
   <path
@@ -2050,7 +2050,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="US Virgin Islands"
      class="worldcountry"
      id="VI" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_VI" x="5" y="600">US Virgin Islands</text>
 
 
   <path
@@ -2058,7 +2058,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Vietnam"
      class="worldcountry"
      id="VN" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_VN" x="5" y="600">Vietnam</text>
 
 
   <path
@@ -2066,7 +2066,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Vanuatu"
      class="worldcountry"
      id="VU" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_VU" x="5" y="600">Vanuatu</text>
 
 
   <path
@@ -2074,7 +2074,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Wallis and Futuna"
      class="worldcountry"
      id="WF" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_WF" x="5" y="600">Wallis and Futuna</text>
 
 
   <path
@@ -2082,7 +2082,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Samoa"
      class="worldcountry"
      id="WS" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_WS" x="5" y="600">Samoa</text>
 
 
   <path
@@ -2090,7 +2090,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Yemen"
      class="worldcountry"
      id="YE" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_YE" x="5" y="600">Yemen</text>
 
 
   <path
@@ -2098,7 +2098,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Mayotte"
      class="worldcountry"
      id="YT" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_YT" x="5" y="600">Mayotte</text>
 
 
   <path
@@ -2106,7 +2106,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="South Africa"
      class="worldcountry"
      id="ZA" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_ZA" x="5" y="600">South Africa</text>
 
 
   <path
@@ -2114,7 +2114,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Zambia"
      class="worldcountry"
      id="ZM" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_ZM" x="5" y="600">Zambia</text>
 
 
   <path
@@ -2122,7 +2122,7 @@ CLIENT: https://www.travelnewsnamibia.com/
      title="Zimbabwe"
      class="worldcountry"
      id="ZW" />
-  <text class="map_wordcountry_text" id="" x="5" y="600">NAME</text>
+  <text class="map_wordcountry_text" id="country_text_ZW" x="5" y="600">Zimbabwe</text>
 
 
 
