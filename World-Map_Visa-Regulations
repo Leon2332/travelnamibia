@@ -290,7 +290,7 @@ CLIENT: https://www.travelnewsnamibia.com/
   :has(#UM-HQ:hover) :is(#country_text_UM-HQ),
   :has(#UM-JQ:hover) :is(#country_text_UM-JQ),
   :has(#UM-MQ:hover) :is(#country_text_UM-MQ),
-  :has(#UM-WQ:hover) :is(#country_text_UM-WQ)
+  :has(#UM-WQ:hover) :is(#country_text_UM-WQ),
   :has(#US:hover) :is(#country_text_US),
   :has(#UY:hover) :is(#country_text_UY),
   :has(#UZ:hover) :is(#country_text_UZ),
