@@ -3,7 +3,7 @@
 /* ======================
 SOURCE: https://github.com/Leon2332/travelnamibia/blob/main/World-Map_Visa-Regulations
 AUTHOR: Leon (https://github.com/Leon2332)
-CLIENT: https://www.travelnewsnamibia.com/
+CLIENT: https://travelnam.com/
 ====================== */
 
 @import url("https://use.typekit.net/ner6bcf.css");
@@ -39,19 +39,19 @@ CLIENT: https://www.travelnewsnamibia.com/
   }
   
   :has(#africancountries:hover) :is(#BJ, #BF, #BI, #CV, #CM, #CF, #TD, #KM, #CI, #DJ, #GQ, #ER, #GA, #GM, #GH, #GN, #GW, #LR, #MG, #MR, #NE, #RW, #ST, #SL, #TG, #TN, #EH, #UG) {
-      fill: #F48C26;
+      fill: #F48C2695;
   }
   
   :has(#othercountries:hover) :is(#AR, #AM, #AU, #AT, #AZ, #BY, #BE, #BG, #CA, #KH, #CL, #HR, #CZ, #DK, #EC, #EE, #FI, #FR, #DE, #GR, #HU, #IS, #IE, #IL, #IT, #JP, #KZ, #KG, #LV, #LI, #LT, #LU, #MX, #MD, #NL, #NZ, #NI, #NO, #PY, #PE, #PL, #PT, #RO, #SK, #KR, #ES, #SE, #CH, #TJ, #TH, #TR, #TM, #UA, #AE, #GB, #US, #UY, #UZ, #VA, #VE, #VN) {
-      fill: #F48C26;
+      fill: #F48C2695;
   }
   
   :has(#customcountries1:hover) :is(#DZ, #BJ, #BF, #BI, #CV, #CM, #CF, #TD, #CN, #KM, #CG, #CI, #CD, #EG, #GQ, #ER, #ET, #FR, #GA, #GM, #DE, #GH, #GN, #IN, #LR, #MG, #MR, #NE, #NG, #PL, #RW, #EH, #ST, #SN, #SL, #CH, #TG, #TN, #TR, #VN) {
-      fill: #F48C26;
+      fill: #F48C2695;
   }
   
   :has(#customcountries2:hover) :is(#AO, #BW, #BR, #CU, #SZ, #ID, #JM, #KE, #LS, #MW, #MY, #MU, #MZ, #RU, #SC, #SG, #ZA, #TZ, #ZM, #ZW) {
-      fill: #F48C26;
+      fill: #F48C2695;
   }
   
   :has(#AD:hover) :is(#country_text_AD),
